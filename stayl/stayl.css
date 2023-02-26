@@ -74,16 +74,16 @@ hr {
   display: none;
 }
 
-.button {
-  position: relative;
-  height: 5rem;
-  width: 5rem;
-  border-radius: 50%;
-  top: -1vh; 
-  right: 10vw; 
-  z-index: 2000;
-  text-align: center; 
-  cursor: pointer;
+  .button {
+    position: relative;
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+    top: 0vh;
+    right: 6vw;
+    z-index: 2000;
+    text-align: center;
+    cursor: pointer;
 }
 .background {
   height: 4rem;
