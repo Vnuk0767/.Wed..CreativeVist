@@ -1,0 +1,420 @@
+
+
+
+@media screen and (max-width: 991px) {
+  .container {
+      width: 720px;
+  }
+  /* intro  */
+   .intro-h1 {
+    font-size: 45px;
+   }
+   /* great */
+   .line-img {
+    width: 17%;
+   }
+   .services-title {
+    font-size: 33px;
+    line-height: 50px;
+   }
+   /* testimonials */
+   .img-1 {
+    width: 48%;
+   }
+   .box-title-1 {
+    font-size: 18px;
+  }
+  .box-poragraf p {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 26px;
+    color: #70798b;
+  }
+  /* yellow */
+  .yellow-box {
+    height: 302px;
+  }
+  /* blue */
+  .blue-box {
+    width: 100%;
+    height: 313px;
+    align-items: center;
+}
+  /* footer */ 
+  .footer-p {
+    font-size: 11px;
+    line-height: 14px;
+}
+.footer-text {
+  width: 32%;
+}
+.footer-map {
+  width: 48%;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.footer-contact {
+  width: 32%;
+}
+.img-map  {
+  width: 90%;
+}
+.contact-p {
+  font-size: 13px;
+}
+.contact-email {
+  font-size: 13px;
+}
+.contact-number {
+  font-size: 13px;
+}
+/* foorter-end */
+.end-h{
+  font-size: 10px;
+}
+.menu-end-liner {
+  font-size: 14px;
+  margin-left: 20px;
+}
+.foorter-icon i {
+  font-size: 12px;
+  margin: 0 2px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 767px) {
+  .container {
+    width: 540px;
+  }
+  /* header -------------- */
+  .br-img {
+    margin-left: 32px;
+    margin-top: 34px;
+}
+  .header-menu {
+    display: none;
+  }
+  .header-btn {
+    display: none;
+  }
+  .birger-menu {
+    display: block;
+}
+  /* intro */
+  .intro-h1 {
+    font-size: 23px;
+  }
+  /* servis-text-title  --------------------*/
+  .services-subtitlle {
+    font-size: 17px;
+  }
+  .services-title {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  /* great ----------------------*/
+  .company-line {
+    flex-direction: column;
+    margin-top: 0;
+  }
+  .box-company {
+    margin-top: 30px;
+  }
+  .line-img {
+    margin: 24px auto;
+  }
+  /* worked ------------------------- */
+  .worked-liner {
+    width: 100%;
+  }
+  /* testimonials ---------------------------------- */
+  .testimonials-korobka {
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  .testimonials-box {
+    width: 80%;
+    max-width: 300px;
+    margin: 45px auto;
+  }
+  .img-1 {
+    width: 44%;
+    max-width: 100px;
+    margin: -48px 0px 0px 0px;
+  }
+  .box-title-1 {
+    font-size: 18px;
+  }
+  .box-poragraf p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    color: #70798b;
+  }
+
+  /* yellow -------------------------------- */
+  .yellow-subtitle {
+    font-size: 15px;
+  }
+  .yellow-title {
+    font-size: 26px;
+  }
+  .yellow-btn {
+    padding: 13px 40px;
+    background: #4c40f7;
+    border-radius: 12px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    color: #ffffff;
+}
+.strel {
+    width: 7%;
+    margin-right: -138px;
+    position: absolute;
+}
+/* blue */ 
+.input {
+    width: 80%;
+}
+.blue-subtitle {
+    font-size: 14px;
+}
+.blue-title {
+    font-size: 35px;
+}
+/* footer */
+.footer {
+    height: 230vh;
+}
+
+.footer-text {
+  width: 80%;
+  height: 144px;
+}
+.footer-map {
+    width: 96%;
+    margin-top: 15px;
+    margin-bottom: 12px;
+    text-align: center;
+}
+.footer-contact {
+    width: 80%;
+}
+.footer-title {
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    color: #ffffff;
+    margin-bottom: 25px;
+}
+.img-map {
+    width: 80%;
+}
+.footer-item {
+    flex-direction: column;
+    align-items: center;
+}
+.foorter-end {
+    flex-direction: column;
+}
+.menu-end-liner {
+     margin-left: 6px; 
+}
+.end-menu {
+    margin-top: 20px;
+     margin-bottom: 20px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 575 */
+@media screen and (max-width: 575px) {
+  .container {
+    width: 100%;
+    padding: 0 15px;
+  }
+  /* header -------------- */
+  .br-img {
+    margin-left: 32px;
+    margin-top: 34px;
+}
+  .header-menu {
+    display: none;
+  }
+  .header-btn {
+    display: none;
+  }
+  .birger-menu {
+    display: block;
+}
+  /* intro */
+  .intro-h1 {
+    font-size: 23px;
+  }
+  /* servis-text-title  --------------------*/
+  .services-subtitlle {
+    font-size: 17px;
+  }
+  .services-title {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  /* great ----------------------*/
+  .company-line {
+    flex-direction: column;
+    margin-top: 0;
+  }
+  .box-company {
+    margin-top: 30px;
+  }
+  .line-img {
+    margin: 24px auto;
+    width: 46%;
+    max-width:  121px;
+  }
+  /* worked ------------------------- */
+  .worked-liner {
+    width: 100%;
+  }
+  /* testimonials ---------------------------------- */
+  .testimonials-korobka {
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  .testimonials-box {
+    width: 80%;
+    max-width: 300px;
+    margin: 45px auto;
+  }
+  .img-1 {
+    width: 44%;
+    max-width: 100px;
+    margin: -48px 0px 0px 0px;
+  }
+  .box-title-1 {
+    font-size: 18px;
+  }
+  .box-poragraf p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    color: #70798b;
+  }
+
+  /* yellow -------------------------------- */
+  .yellow-subtitle {
+    font-size: 15px;
+  }
+  .yellow-title {
+    font-size: 26px;
+  }
+  .yellow-btn {
+    padding: 13px 40px;
+    background: #4c40f7;
+    border-radius: 12px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    color: #ffffff;
+}
+.strel {
+    width: 7%;
+    margin-right: -138px;
+    position: absolute;
+}
+/* blue */ 
+.input {
+    width: 80%;
+}
+.blue-subtitle {
+    font-size: 14px;
+}
+.blue-title {
+    font-size: 35px;
+}
+/* footer */
+.footer {
+    height: 215vh;
+}
+
+.footer-text {
+    width: 80%;
+    margin-bottom: -188px;
+}
+.footer-map {
+    width: 96%;
+    margin-top: 130px;
+    margin-bottom: -38px;
+    text-align: center;
+    height: 338px;
+}
+.footer-contact {
+    width: 80%;
+}
+.footer-title {
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    color: #ffffff;
+    margin-bottom: 25px;
+}
+.img-map {
+    width: 80%;
+}
+.footer-item {
+    flex-direction: column;
+    align-items: center;
+}
+.foorter-end {
+    flex-direction: column;
+}
+.menu-end-liner {
+     margin-left: 6px; 
+}
+.end-menu {
+    margin-top: 20px;
+     margin-bottom: 20px;
+}
+}
